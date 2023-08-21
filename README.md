@@ -1,11 +1,13 @@
 # DiverseViT
 
-Implementation of our paper published at ICML Workshop on Spurious Correlations, Invariance, and Stability ([SCIS](https://sites.google.com/view/scis-workshop-23/home)) 2023:
+Implementation of our paper:
 
-> Armand Mihai Nicolicioiu, Andrei Liviu Nicolicioiu, Bogdan Alexe, Damien Teney
->
+
 > [Learning Diverse Features in Vision Transformers for Improved Generalization](https://openreview.net/forum?id=cowlR3XdWV)
-
+> 
+> Armand Mihai Nicolicioiu, Andrei Liviu Nicolicioiu, Bogdan Alexe, Damien Teney
+> 
+> ICML Workshop on Spurious Correlations, Invariance, and Stability ([SCIS](https://sites.google.com/view/scis-workshop-23/home)) 2023:
 
 ## Installation
 
